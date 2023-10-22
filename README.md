@@ -102,11 +102,11 @@ A estrutura do projeto segue as melhores práticas de desenvolvimento em Java co
 <table>
   <tr>
     <td>
-      <img width="80px" align="center" src="https://avatars.githubusercontent.com/caiobello"/>
+      <img width="80px" align="center" src="https://avatars.githubusercontent.com/jealmeida"/>
     </td>
     <td align="left">
-      <a href="https://github.com/caiobello">
-        <span><b>Caio B. Zamana</b></span>
+      <a href="https://github.com/jealmeida021">
+        <span><b>jealmeida</b></span>
       </a>
       <br>
       <span>Desenvolvedor Full Stack</span>
@@ -116,4 +116,4 @@ A estrutura do projeto segue as melhores práticas de desenvolvimento em Java co
 
 
 
-<!-- <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0487D9&height=120&section=footer"/> -->
+
