@@ -16,6 +16,7 @@ Java RESTful API criada para a Santander Dev Week.
 classDiagram
 
 
+
   class Category {
     + id: Long
     + name: String
@@ -96,13 +97,6 @@ A aplicação possui um mecanismo de tratamento de erros para fornecer respostas
 Este projeto tem o funcionamento de um auto atendimento, permitindo que os clientes façam suas compras de forma autônoma e eficiente. 
 A estrutura do projeto segue as melhores práticas de desenvolvimento em Java com o uso do Spring Framework, proporcionando modularidade, reutilização de código e facilidade de manutenção.
 
-Para quaisquer dúvidas, problemas ou sugestões, por favor, abra uma "Issue" no repositório do GitHub.
-
-
-### Contato:
-<a href="https://www.linkedin.com/in/caiozamana/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
-<a href="https://api.whatsapp.com/send?phone=55048991477921" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white">
-<a href = "mailto:caiobzm@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 
 
 <table>
